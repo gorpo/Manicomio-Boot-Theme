@@ -13,9 +13,13 @@ Basta ir na pasta de imagens apos o download e editar as imagens la dentro, o ta
 Instalação:
 
  1 - baixar os arquivos
+
  2 - editar as imagens dentro da pasta
+
  3 - dar permissao para o installer: chmod 777 installer.sh
+
  4 - executar o installer como root: sudo ./installer.sh
+
  
 Caso queiram conferir um pouco mais de meu projeto acessem:
 httṕs:// tcxsproject.com.br
