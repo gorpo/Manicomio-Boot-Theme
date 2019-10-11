@@ -1,8 +1,8 @@
 [Plymouth Theme]
-Name=meu-icone-plymouth
-Description=Script criado por GorpoOrko TCXS Project
+Name=manicomio
+Description=Manicomio By Gorpo
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/meu-icone-plymouth
-ScriptFile=/usr/share/plymouth/themes/meu-icone-plymouth/meu-icone-plymouth.script
+ImageDir=/usr/share/plymouth/themes/manicomio
+ScriptFile=/usr/share/plymouth/themes/manicomio/manicomio.script
